@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+  <name>jate</name>
+  <comment>JATE is a toolkit for developing and experimenting Automatic Term Extractions/Recognition algorithms in Java. The motivation of this toolkit is to make available several state-of-the-art algorithms of ATE/ATR to developers and users of ATE/ATR, and encourage developers of ATE/ATR methods to develop their methods under a uniform framework to enable comparative studies. NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
+  <projects/>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
+</projectDescription>
